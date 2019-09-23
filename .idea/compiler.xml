@@ -6,13 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="facilities-xml-to-csv-converter" />
+        <module name="facilities-osm-converter" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="facilities-xml-to-csv-converter" options="-Xmaxwarns 4000 -Xmaxerrs 100" />
+      <module name="facilities-osm-converter" options="-Xmaxwarns 4000 -Xmaxerrs 100" />
     </option>
   </component>
 </project>

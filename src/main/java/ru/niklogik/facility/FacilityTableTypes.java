@@ -1,4 +1,4 @@
-package ru.niklogik;
+package ru.niklogik.facility;
 
 import java.util.Arrays;
 import java.util.List;

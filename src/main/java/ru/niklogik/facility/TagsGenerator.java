@@ -1,12 +1,11 @@
-package ru.niklogik.csv;
+package ru.niklogik.facility;
 
+import ru.niklogik.csv.CSVDataImpl;
 import ru.niklogik.osm.Osm;
 
-import java.time.LocalTime;
-import java.time.temporal.ChronoUnit;
 import java.util.*;
 
-import static ru.niklogik.csv.CSVTableElements.*;
+import static ru.niklogik.csv.FacilitiesCSVConstants.*;
 
 public class TagsGenerator {
 

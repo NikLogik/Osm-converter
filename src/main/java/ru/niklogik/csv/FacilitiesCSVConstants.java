@@ -3,7 +3,7 @@ package ru.niklogik.csv;
 import java.util.Arrays;
 import java.util.List;
 
-public class CSVTableElements {
+public class FacilitiesCSVConstants {
 
     public static final String COORD_LAN = "lan";
     public static final String COORD_LEN = "lon";

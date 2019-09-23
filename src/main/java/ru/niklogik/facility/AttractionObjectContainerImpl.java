@@ -1,23 +1,19 @@
-package ru.niklogik.csv;
+package ru.niklogik.facility;
 
 import org.matsim.api.core.v01.Id;
-import ru.niklogik.facility.AttractionObjectContainer;
-import ru.niklogik.facility.FacilityTableTypes;
-import ru.niklogik.facility.TagsGenerator;
+import ru.niklogik.csv.CSVDataImpl;
 import ru.niklogik.io.OsmFileReader;
 import ru.niklogik.osm.Osm;
 import ru.niklogik.osm.OsmData;
 
 import java.util.*;
 
-@Deprecated
-public class CSVDataImpl implements AttractionObjectContainer {
-
+public class AttractionObjectContainerImpl implements AttractionObjectContainer {
     private OsmData data;
 
     private List<Long> nodes_id = new ArrayList<>();
 
-    public CSVDataImpl(OsmData data) {
+    public AttractionObjectContainerImpl(OsmData data) {
         this.data = data;
         modifyNodesFromWays();
         clearUnusefullNodes();
@@ -28,8 +24,8 @@ public class CSVDataImpl implements AttractionObjectContainer {
         for (Osm.Node node : data.getNodes().values()){
             String osm_key = node.getTags().keySet().stream().filter(key -> Osm.Key.ATTR_KEYS.contains(key)).findFirst().get();
             String type = node.getTags().get(osm_key);
-            AttractionType key = null;
-            for (Map.Entry<AttractionType, List<String>> entries : AttractionType.TYPE_MAP.entrySet()){
+            CSVDataImpl.AttractionType key = null;
+            for (Map.Entry<CSVDataImpl.AttractionType, List<String>> entries : CSVDataImpl.AttractionType.TYPE_MAP.entrySet()){
                 if (entries.getValue().contains(type)) {
                     key = entries.getKey();
                     node.getTags().put("type", key.toString());
@@ -80,7 +76,7 @@ public class CSVDataImpl implements AttractionObjectContainer {
         store,
         shopping;
 
-        public static final Map<AttractionType, List<String>> TYPE_MAP = new HashMap<AttractionType, List<String>>() {{
+        public static final Map<AttractionObjectContainerImpl.AttractionType, List<String>> TYPE_MAP = new HashMap<AttractionObjectContainerImpl.AttractionType, List<String>>() {{
             put(work, FacilityTableTypes.work_cat);
             put(school, FacilityTableTypes.school_cat);
             put(education, FacilityTableTypes.education_cat);
@@ -109,5 +105,4 @@ public class CSVDataImpl implements AttractionObjectContainer {
     public boolean removeNodeByAttType(String att_type) {
         return false;
     }
-
 }

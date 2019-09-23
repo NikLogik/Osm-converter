@@ -1,4 +1,4 @@
-package ru.niklogik.csv;
+package ru.niklogik.facility;
 
 import org.matsim.api.core.v01.Id;
 import ru.niklogik.osm.Osm;
@@ -6,7 +6,7 @@ import ru.niklogik.osm.Osm;
 import java.util.List;
 import java.util.Map;
 
-public interface CSVData {
+public interface AttractionObjectContainer {
 
     Map<Id<Osm.Node>, Osm.Node> getAllNodes();
 
