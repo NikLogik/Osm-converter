@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.nik-logik</groupId>
-    <artifactId>facilities-osm-to-csv-converter</artifactId>
+    <artifactId>facilities-osm-converter</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 
     <name>AOConverter</name>
-    <description>Converter for objects from *.osm to *.csv</description>
+    <description>Converter for objects from *.osm to *.csv or *.xml</description>
 
     <distributionManagement>
         <repository>

@@ -20,7 +20,6 @@ package ru.niklogik.osm;
 
 import org.matsim.api.core.v01.Id;
 import ru.niklogik.io.OsmFileReader;
-import ru.niklogik.osm.Osm;
 
 import java.util.Map;
 

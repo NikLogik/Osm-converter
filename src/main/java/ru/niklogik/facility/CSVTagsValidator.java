@@ -7,7 +7,7 @@ import java.util.*;
 
 import static ru.niklogik.csv.FacilitiesCSVConstants.*;
 
-public class TagsGenerator {
+public class CSVTagsValidator {
 
     private static Random random = new Random();
 

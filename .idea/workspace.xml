@@ -2,18 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9d71186-3dd3-4d48-a7c4-293b7f69adf4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facilities-xml-to-csv-converter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/facilities-osm-converter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/niklogik/FacilitiesOsmToCsvConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/niklogik/FacilitiesOsmConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/niklogik/FacilityTableTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/niklogik/facility/FacilityTableTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/niklogik/csv/CSVData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/niklogik/facility/AttractionObjectContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/niklogik/FacilitiesOsmConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/niklogik/FacilitiesOsmConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/niklogik/csv/CSVDataImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/niklogik/csv/CSVDataImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/niklogik/csv/CSVTableElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/niklogik/csv/FacilitiesCSVConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/niklogik/csv/TagsGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/niklogik/facility/TagsGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/niklogik/io/AttractionObjectWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/niklogik/io/AttractionObjectWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/niklogik/facility/AttractionObjectContainerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/niklogik/facility/AttractionObjectContainerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/niklogik/facility/TagsGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/niklogik/facility/CSVTagsValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/niklogik/gui/FacilityConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/niklogik/gui/FacilityConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/niklogik/io/FacilitiesXmlWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/niklogik/io/FacilitiesXmlWriter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/niklogik/osm/OsmData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/niklogik/osm/OsmData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/text.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/text.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/text.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/text.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +43,9 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -101,53 +104,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="facilities-osm-converter" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="facilities-osm-converter" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.FacilityConverter" />
@@ -182,6 +138,15 @@
     </option>
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/niklogik/io/FacilitiesXmlWriter.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="nodes_id" language="JAVA" />

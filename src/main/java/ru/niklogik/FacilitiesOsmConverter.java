@@ -20,9 +20,9 @@ public class FacilitiesOsmConverter {
         run(INPUT_OSM, OUTPUT_NAME);
     }
 
-    private static void run(String inputOsm, String outputCsv) {
+    private static void run(String inputOsm, String output_file) {
         AllowedTagsFilter filter = new AllowedTagsFilter();
-        Osm.Key.ATTR_KEYS.stream().forEach(value -> filter.add(Osm.ElementType.WAY, value, null));
+        Osm.Key.ATTR_KEYS.forEach(value -> filter.add(Osm.ElementType.WAY, value, null));
         OsmData data = new OsmDataImpl(filter);
         new OsmFileReader(data).readFile(INPUT_OSM);
 

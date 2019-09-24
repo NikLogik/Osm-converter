@@ -3,7 +3,7 @@ package ru.niklogik.csv;
 import org.matsim.api.core.v01.Id;
 import ru.niklogik.facility.AttractionObjectContainer;
 import ru.niklogik.facility.FacilityTableTypes;
-import ru.niklogik.facility.TagsGenerator;
+import ru.niklogik.facility.CSVTagsValidator;
 import ru.niklogik.io.OsmFileReader;
 import ru.niklogik.osm.Osm;
 import ru.niklogik.osm.OsmData;
@@ -37,7 +37,7 @@ public class CSVDataImpl implements AttractionObjectContainer {
                 }
             }
             if (key != null){
-                TagsGenerator.addCSVTags(node, key);
+                CSVTagsValidator.addCSVTags(node, key);
             }
         }
     }

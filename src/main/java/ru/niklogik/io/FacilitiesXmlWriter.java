@@ -6,6 +6,7 @@ import ru.niklogik.osm.Osm;
 import ru.niklogik.osm.OsmData;
 import static ru.niklogik.xml.FacilitiesXMLConstants.*;
 
+import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
@@ -68,13 +69,8 @@ public class FacilitiesXmlWriter extends AttractionObjectWriter{
         if (capacity!= null){
             writeCapacity(tags);
         }
-        String shifts = tags.get(FacilitiesCSVConstants.NUMBER_OF_SHIFTS);
-        if (shifts != null){
-            int times = (int) Double.parseDouble(shifts);
-            for (int i = 1; i <= times; i++) {
-                writeOpenTime(tags, i);
-            }
-        }
+        if (tags.get(FacilitiesCSVConstants.NUMBER_OF_SHIFTS) != null)
+            writeOpenTime(tags);
         writeEndTag(ACTIVITY);
     }
 
@@ -84,13 +80,38 @@ public class FacilitiesXmlWriter extends AttractionObjectWriter{
         writeStartTag(CAPACITY, attributes, true);
     }
 
-    private void writeOpenTime(Map<String, String> tags, int i){
-        List<Tuple<String, String >> attributes = new ArrayList<>();
-        attributes.add(createTuple(DAY, WEEK));
-        String open = tags.get(i + "_open");
-        String close = tags.get(i + "_close");
-        attributes.add(createTuple(START_TIME, open));
-        attributes.add(createTuple(END_TIME, close));
-        writeStartTag(OPEN_TIME, attributes, true);
+    private void writeOpenTime(Map<String, String> tags){
+        int count = (int) tags.keySet().stream().filter(key -> key.endsWith("open")).count();
+        for (int i = 1; i <= count; i++){
+            List<Tuple<String, String >> attributes = new ArrayList<>();
+            String open = tags.get(i + "_open");
+            String close = tags.get(i + "_close");
+            System.out.println(tags.get(FacilitiesCSVConstants.NAME));
+            String[] arr = validateShiftTime(open, close);
+            for (int j = 0; j < arr.length; j +=2){
+                attributes.add(createTuple(DAY, WEEK));
+                attributes.add(createTuple(START_TIME, arr[j]));
+                attributes.add(createTuple(END_TIME, arr[j+1]));
+                writeStartTag(OPEN_TIME, attributes, true);
+                attributes.clear();
+            }
+        }
+    }
+
+    private String[] validateShiftTime(String open, String close) {
+        String[] strings;
+        if (close.equals("00:00") || close.equals("00:00:00")){
+            close = "24:00";
+            strings = new String[]{open, close};
+        } else {
+            LocalTime time_open = LocalTime.parse(open);
+            LocalTime time_close = LocalTime.parse(close);
+            if (time_close.compareTo(time_open) < 0){
+                strings = new String[]{open, "24:00:00", "00:00:00", close};
+            } else {
+                strings =  new String[]{open,close};
+            }
+        }
+        return strings;
     }
 }

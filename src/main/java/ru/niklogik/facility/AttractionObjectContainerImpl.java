@@ -33,7 +33,7 @@ public class AttractionObjectContainerImpl implements AttractionObjectContainer 
                 }
             }
             if (key != null){
-                TagsGenerator.addCSVTags(node, key);
+                CSVTagsValidator.addCSVTags(node, key);
             }
         }
     }
