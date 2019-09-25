@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b719f43e-fd6f-4028-8a2e-b9f2a466dbd4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b719f43e-fd6f-4028-8a2e-b9f2a466dbd4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -170,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569399092617</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="version 1.0.2&#10;1. Доработать генерацию графика работы объектов притяжения">
+      <created>1569399334633</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569399334633</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +197,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="version 1.0.2&#10;1. Доработать генерацию графика работы объектов притяжения" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="585" y="214" width="800" height="677" key="#Notifications" timestamp="1569399217939">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="585" y="214" width="800" height="677" key="#Notifications/61.27.1859.1053@61.27.1859.1053" timestamp="1569399217939" />
     <state x="773" y="296" width="424" height="513" key="FileChooserDialogImpl" timestamp="1569398207528">
       <screen x="61" y="27" width="1859" height="1053" />
     </state>
@@ -208,10 +217,10 @@
       <screen x="61" y="27" width="1859" height="1053" />
     </state>
     <state x="473" y="130" width="1024" height="845" key="SettingsEditor/61.27.1859.1053@61.27.1859.1053" timestamp="1569398158773" />
-    <state x="585" y="289" width="1134" height="657" key="Vcs.Push.Dialog.v2" timestamp="1569399204925">
+    <state x="585" y="289" width="1134" height="657" key="Vcs.Push.Dialog.v2" timestamp="1569399366102">
       <screen x="61" y="27" width="1859" height="1053" />
     </state>
-    <state x="585" y="289" width="1134" height="657" key="Vcs.Push.Dialog.v2/61.27.1859.1053@61.27.1859.1053" timestamp="1569399204925" />
+    <state x="585" y="289" width="1134" height="657" key="Vcs.Push.Dialog.v2/61.27.1859.1053@61.27.1859.1053" timestamp="1569399366102" />
     <state x="731" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate" timestamp="1569398788794">
       <screen x="61" y="27" width="1859" height="1053" />
     </state>
