@@ -1,0 +1,227 @@
+lan,lon,type,name,capacity,visit_level,number_of_shifts,1_open,1_close,1_cap,2_open,2_close,2_cap,3_open,3_close,3_cap
+60.0089487,29.7163303,store,null,0,any,null,null,null,null,null,null,null,null,null,null
+59.9990972,29.7668611,work,УПМ №2,19,any,1,18:00,20:00,1.0,null,null,null,null,null,null
+59.9947715,29.7640705,shopping,Евразия,14,any,1,11:00,22:00,1.0,null,null,null,null,null,null
+59.9902798,29.7882278,store,Красное и Белое,0,any,null,null,null,null,null,null,null,null,null,null
+59.9967666,29.7602548,store,Минимаркет,0,any,null,null,null,null,null,null,null,null,null,null
+59.9903755,29.789684,store,Овощи,0,any,null,null,null,null,null,null,null,null,null,null
+59.9983786,29.7688299,shopping,Парус,11,any,1,10:00,00:00,1.0,null,null,null,null,null,null
+59.998488,29.768138,work,Гард,19,any,1,11:00,22:00,1.0,null,null,null,null,null,null
+59.9990822,29.767557,work,Петровский,19,any,1,09:00,21:00,1.0,null,null,null,null,null,null
+59.9942578,29.7636484,store,Каравай,0,any,null,null,null,null,null,null,null,null,null,null
+59.9909448,29.7873924,store,Продукты,0,any,null,null,null,null,null,null,null,null,null,null
+59.9952346,29.7645067,store,Невис,0,any,null,null,null,null,null,null,null,null,null,null
+60.0011352,29.7664389,store,Продукты,0,any,null,null,null,null,null,null,null,null,null,null
+60.0102513,29.7223866,work,Отделение связи №197761,16,any,1,08:00,20:00,1.0,null,null,null,null,null,null
+60.0103068,29.7220251,work,Сбербанк,17,any,1,10:00,19:30,1.0,null,null,null,null,null,null
+59.9981553,29.7637643,shopping,null,15,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+60.0094203,29.7178068,school,Детский сад №18,516,any,null,null,null,null,null,null,null,null,null,null
+59.9941329,29.763567,store,Озерки,0,any,null,null,null,null,null,null,null,null,null,null
+60.0089233,29.7227119,school,Школа №418,692,any,null,null,null,null,null,null,null,null,null,null
+59.9945173,29.763829,store,Норман,0,any,null,null,null,null,null,null,null,null,null,null
+59.9951025,29.7643962,shopping,Мясной дворик,17,any,1,10:00,21:00,1.0,null,null,null,null,null,null
+59.9929521,29.763189,shopping,Пирожковая,17,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9938691,29.7627113,work,Русь Дент,13,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9946408,29.7639683,shopping,Сказка,11,any,1,10:00,23:00,1.0,null,null,null,null,null,null
+60.000816,29.765246,shopping,Трактир,16,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9898555,29.7707749,shopping,Жемчужина,12,any,1,10:00,19:00,1.0,null,null,null,null,null,null
+59.9912816,29.7617688,work,Администрация Кронштадтского района,17,any,1,08:30,12:40,1.0,null,null,null,null,null,null
+59.9961523,29.7631985,work,Банк СанктПетербург,14,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9962072,29.765234,work,Сбербанк,15,any,1,09:30,20:30,1.0,null,null,null,null,null,null
+59.9966335,29.7766132,work,Детская библиотека,19,any,1,12:00,19:00,1.0,null,null,null,null,null,null
+59.9935736,29.7612118,store,Кулинарная лавка,0,any,null,null,null,null,null,null,null,null,null,null
+59.9976243,29.7663343,store,Белорусские продукты,0,any,null,null,null,null,null,null,null,null,null,null
+59.9935417,29.7614126,store,Продукты,0,any,null,null,null,null,null,null,null,null,null,null
+59.9916957,29.7536874,shopping,null,15,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9956817,29.7644216,shopping,Каштан,17,any,1,11:00,23:00,1.0,null,null,null,null,null,null
+59.9985645,29.7679929,shopping,Великолукский мясокомбинат,11,any,1,09:00,21:00,1.0,null,null,null,null,null,null
+59.9986203,29.7701571,shopping,null,11,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.99446,29.7064289,shopping,Летнее кафе,11,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9978808,29.7701381,store,Продукты,0,any,null,null,null,null,null,null,null,null,null,null
+60.0000408,29.7691975,school,Школа №422,420,any,null,null,null,null,null,null,null,null,null,null
+59.9933987,29.7787451,store,Норман,0,any,null,null,null,null,null,null,null,null,null,null
+59.9941878,29.7775276,shopping,Pizza Bonifacio,18,any,1,12:00,01:00,1.0,null,null,null,null,null,null
+59.9939566,29.778616,shopping,Музей тельняшки,16,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9934925,29.7783472,shopping,Где-то Лето,13,any,1,10:00,22:00,1.0,null,null,null,null,null,null
+59.9936901,29.778402,shopping,Бриош,15,any,1,08:00,22:00,1.0,null,null,null,null,null,null
+59.9965539,29.7681486,store,Дикси,0,any,null,null,null,null,null,null,null,null,null,null
+59.9974662,29.7688825,store,Риф,0,any,null,null,null,null,null,null,null,null,null,null
+59.9929748,29.7810122,store,Разливное пиво,0,any,null,null,null,null,null,null,null,null,null,null
+59.9955289,29.7681741,shopping,null,17,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9928472,29.7815869,store,null,0,any,null,null,null,null,null,null,null,null,null,null
+59.994591,29.7729639,shopping,null,12,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9976629,29.7658273,shopping,l`Americano,17,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9941234,29.7582342,shopping,null,10,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9977643,29.7693466,store,Вкусняшка,0,any,null,null,null,null,null,null,null,null,null,null
+59.9979985,29.7684099,work,Стоматология,19,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9980696,29.7658319,shopping,Шаверма,17,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9987824,29.7681787,store,Лакомка,0,any,null,null,null,null,null,null,null,null,null,null
+59.9972703,29.7670508,shopping,Душевная компания,19,any,1,10:00,20:00,1.0,null,null,null,null,null,null
+59.9959937,29.7479784,shopping,null,13,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9932891,29.763526,work,Альфа-Банк,17,any,1,10:00,19:00,1.0,null,null,null,null,null,null
+59.9902347,29.7748489,store,Народная 7Я семьЯ,0,any,null,null,null,null,null,null,null,null,null,null
+59.98848,29.7744815,store,null,0,any,null,null,null,null,null,null,null,null,null,null
+59.9880731,29.7700486,shopping,Родина,14,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9885581,29.7717061,store,Садко,0,any,null,null,null,null,null,null,null,null,null,null
+59.9887662,29.7707054,store,Старый маяк,0,any,null,null,null,null,null,null,null,null,null,null
+59.98968,29.7743066,store,Сервис,0,any,null,null,null,null,null,null,null,null,null,null
+59.9884991,29.7719984,store,Петровский,0,any,null,null,null,null,null,null,null,null,null,null
+59.9901613,29.7738029,shopping,Мимино,18,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9924176,29.760468,store,null,0,any,null,null,null,null,null,null,null,null,null,null
+59.9937506,29.763877,shopping,null,12,any,1,10:00,20:00,1.0,null,null,null,null,null,null
+59.9883691,29.7739792,shopping,Сувениры Подарки на Красной,12,any,1,10:00,21:00,1.0,null,null,null,null,null,null
+59.9858048,29.7713127,shopping,Шаверма,13,any,1,10:00,22:00,1.0,null,null,null,null,null,null
+59.9884575,29.7740771,work,Почтовое отделение №197763,18,any,1,09:00,14:00,1.0,null,null,null,null,null,null
+59.9994915,29.7621882,work,Туберкулезный диспансер больница № 36,12,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9973341,29.7730453,store,null,0,any,null,null,null,null,null,null,null,null,null,null
+59.9982033,29.7685641,store,Пьятница,0,any,null,null,null,null,null,null,null,null,null,null
+59.9927902,29.7575495,school,Детский сад №1,673,any,null,null,null,null,null,null,null,null,null,null
+59.9858929,29.7713673,shopping,null,17,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9946243,29.777902,work,КРК Бастион,10,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+60.0001761,29.7727091,shopping,КроштадтАвто.РФ,13,any,1,09:00,21:00,1.0,null,null,null,null,null,null
+59.9987218,29.7696907,shopping,Шиколад,17,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9905888,29.7719971,school,Начальная школа - детский сад  № 662,677,any,null,null,null,null,null,null,null,null,null,null
+59.9979397,29.7697441,store,Невис,0,any,null,null,null,null,null,null,null,null,null,null
+59.9869207,29.7749829,shopping,Наутилус,12,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9879407,29.7699689,shopping,Форт,12,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+60.0015547,29.7688773,work,Ветеринарная станция Кронштадтского района,13,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9980633,29.7771282,shopping,null,14,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+60.0096393,29.7255619,school,Детский сад №18,654,any,null,null,null,null,null,null,null,null,null,null
+59.9871429,29.7866895,school,null,611,any,null,null,null,null,null,null,null,null,null,null
+59.9873761,29.7893165,store,Продукты,0,any,null,null,null,null,null,null,null,null,null,null
+59.9911288,29.787441,work,Городская больница №6,17,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9919899,29.7868687,school,Детский сад № 2,492,any,null,null,null,null,null,null,null,null,null,null
+59.9962603,29.7801686,shopping,null,15,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9978176,29.7674446,store,Дагвино,0,any,null,null,null,null,null,null,null,null,null,null
+60.0017382,29.761518,work,Отдел вневедомственной охраны УВД,14,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9891856,29.7637069,shopping,Драматический театр Балтийского флота,16,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9931558,29.7627243,shopping,Стиль,11,any,1,10:00,21:00,1.0,null,null,null,null,null,null
+59.9962462,29.7671974,shopping,У Палыча,15,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9892743,29.7632608,shopping,Золотой Якорь,14,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9989012,29.7682719,store,ЛекОблФарм,0,any,null,null,null,null,null,null,null,null,null,null
+59.9988716,29.7682549,store,Пятёрочка,0,any,null,null,null,null,null,null,null,null,null,null
+60.001284,29.766301,store,null,0,any,null,null,null,null,null,null,null,null,null,null
+59.9886078,29.7869383,store,Дикси,0,any,null,null,null,null,null,null,null,null,null,null
+59.9934813,29.7591242,store,Магнит,0,any,null,null,null,null,null,null,null,null,null,null
+59.9905987,29.7884887,store,Магнит,0,any,null,null,null,null,null,null,null,null,null,null
+59.9902769,29.788248,shopping,Motor,13,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9986227,29.7681649,shopping,Пышки,11,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9880597,29.7692344,shopping,Таверна,19,any,1,09:00,04:00,1.0,null,null,null,null,null,null
+60.0088888,29.7254376,shopping,null,19,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9985864,29.7632355,shopping,Магазин антикварианта,17,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9913165,29.7875627,store,null,0,any,null,null,null,null,null,null,null,null,null,null
+59.9905699,29.7884766,store,Алоэ,0,any,null,null,null,null,null,null,null,null,null,null
+60.0102007,29.719185,store,Кулинарная Лавка,0,any,null,null,null,null,null,null,null,null,null,null
+60.008719,29.7375177,shopping,null,15,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+60.0085202,29.7371999,work,Газпромнефть,11,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+60.0040179,29.7293894,work,Детский санаторий "Аврора",19,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9989585,29.7674464,store,Норман,0,any,null,null,null,null,null,null,null,null,null,null
+59.994304,29.7645005,work,Кронштадтское РУВД,13,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9970299,29.7677346,shopping,Гостиный Двор,16,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9965199,29.7662789,shopping,Subway,14,any,3,07:00:00,15:00:00,0.4,15:00:00,23:00:00,0.4,23:00:00,07:00:00,0.2
+59.9979293,29.7664363,shopping,Суши Wok,16,any,1,10:00,23:00,1.0,null,null,null,null,null,null
+59.9973795,29.7670304,shopping,33 пингвина,16,any,1,10:00,20:00,1.0,null,null,null,null,null,null
+59.9933909,29.7812109,store,Купина,0,any,null,null,null,null,null,null,null,null,null,null
+59.9958842,29.7801361,school,null,622,any,null,null,null,null,null,null,null,null,null,null
+59.9934289,29.778574,shopping,Кафе-магазин Каравай.,10,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9933157,29.7811545,work,Участковый пункт полиции № 3,18,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+60.0096559,29.7324564,shopping,null,11,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9931856,29.7515116,school,Школа-интернат № 424,642,any,null,null,null,null,null,null,null,null,null,null
+59.9986094,29.7697967,shopping,Для самых важных людей,19,any,1,10:00,20:00,1.0,null,null,null,null,null,null
+59.9985895,29.7696512,shopping,Алмаз,18,any,1,10:00,19:00,1.0,null,null,null,null,null,null
+59.9945124,29.7645169,shopping,Пельменная,15,any,1,08:00,21:00,1.0,null,null,null,null,null,null
+59.9944496,29.7644731,work,Отделение внутренних дел,19,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9930425,29.7633116,store,Минимаркет,0,any,null,null,null,null,null,null,null,null,null,null
+59.9896567,29.7689602,shopping,null,18,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.989638,29.7691896,shopping,null,13,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9985596,29.7697588,shopping,1001 сумка,13,any,1,10:00,20:00,1.0,null,null,null,null,null,null
+59.9879612,29.7880917,school,Детская музыкальная школа имени Г.П. Вишневской,698,any,null,null,null,null,null,null,null,null,null,null
+59.9919701,29.7873998,shopping,На троих,12,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9917637,29.7869534,store,Аптека,0,any,null,null,null,null,null,null,null,null,null,null
+60.0094616,29.7222077,store,Норман,0,any,null,null,null,null,null,null,null,null,null,null
+60.0100817,29.7177331,store,Сгомонь,0,any,null,null,null,null,null,null,null,null,null,null
+60.0099931,29.7180278,shopping,Мясной дворик,10,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+60.0101568,29.7190721,shopping,КоSмос,19,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9950579,29.7826528,school,null,695,any,null,null,null,null,null,null,null,null,null,null
+59.9930042,29.7882109,store,Мини-Март,0,any,null,null,null,null,null,null,null,null,null,null
+59.9965962,29.7633052,school,Школа №425 им. акад. П.Л. Капицы,587,any,null,null,null,null,null,null,null,null,null,null
+59.9974466,29.7650756,shopping,Кондитерская,14,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9965523,29.7636836,school,Школа №676 коррекционная,613,any,null,null,null,null,null,null,null,null,null,null
+59.9962677,29.7585399,store,Кедр,0,any,null,null,null,null,null,null,null,null,null,null
+59.9972024,29.7737133,store,null,0,any,null,null,null,null,null,null,null,null,null,null
+60.0035418,29.7595264,store,Евромаркет,0,any,null,null,null,null,null,null,null,null,null,null
+59.9956943,29.764309,shopping,Булочная • Пекарня,18,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.997951,29.7667545,store,Продукты,0,any,null,null,null,null,null,null,null,null,null,null
+59.9976444,29.7701124,shopping,Zarina,12,any,1,11:00,19:00,1.0,null,null,null,null,null,null
+59.9903312,29.7723765,school,Начальная школа - детский сад  № 662,570,any,null,null,null,null,null,null,null,null,null,null
+59.989135,29.7896309,school,детский сад,420,any,null,null,null,null,null,null,null,null,null,null
+59.9939965,29.7837836,shopping,null,19,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9942153,29.783311,store,Магнит,0,any,null,null,null,null,null,null,null,null,null,null
+60.0013971,29.7623185,shopping,Нар-Шараб,18,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+60.0016036,29.7625223,shopping,null,16,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9978035,29.7728094,store,Продукты,0,any,null,null,null,null,null,null,null,null,null,null
+60.0015049,29.7686581,shopping,Старая Крепость,10,any,1,12:00,00:00,1.0,null,null,null,null,null,null
+59.9979799,29.7695219,shopping,Блины и пирожки,13,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+60.011506,29.7246768,shopping,null,14,any,3,07:00:00,15:00:00,0.4,15:00:00,23:00:00,0.4,23:00:00,07:00:00,0.2
+59.9938887,29.7639635,shopping,Четыре сезона,19,any,1,10:00,20:00,1.0,null,null,null,null,null,null
+59.9900944,29.7887646,work,Управление Пенсионного фонда,10,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9904772,29.7890661,store,Продукты,0,any,null,null,null,null,null,null,null,null,null,null
+59.9952003,29.7529735,school,Морской кадетский корпус,599,any,null,null,null,null,null,null,null,null,null,null
+59.9966635,29.7656713,store,Продукты,0,any,null,null,null,null,null,null,null,null,null,null
+59.9925315,29.7620736,shopping,Золотой лев,18,any,1,12:00,00:00,1.0,null,null,null,null,null,null
+59.9960215,29.7679284,work,Центральная библиотека,14,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+60.0100126,29.718188,shopping,Японский городовой,15,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9907743,29.7868184,store,Продукты,0,any,null,null,null,null,null,null,null,null,null,null
+59.9908535,29.7892827,work,Участковый пункт полиции,15,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+60.0000724,29.7728094,shopping,null,14,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+60.0002946,29.7727969,shopping,null,18,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9979116,29.7761059,shopping,null,11,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9878871,29.7701127,shopping,Сувенир Кронштадта,16,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9908584,29.7899456,store,На горе,0,any,null,null,null,null,null,null,null,null,null,null
+60.0069251,29.7124333,work,Роснефть,15,any,3,07:00:00,15:00:00,0.4,15:00:00,23:00:00,0.4,23:00:00,07:00:00,0.2
+59.9875792,29.7855563,work,Библиотека-филиал №1 ЦБС,19,any,2,12:00,15:00,0.5,15:30,19:00,0.5,null,null,null
+59.9920526,29.7930423,work,Военно-морской госпиталь имени Н. А. Семашко,15,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9892831,29.7897488,school,Детский сад №8,551,any,null,null,null,null,null,null,null,null,null,null
+59.99776,29.7770914,shopping,null,16,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9855486,29.7713384,shopping,Кафе,15,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9922971,29.773429,shopping,null,19,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+60.0104007,29.7194193,store,Продукты,0,any,null,null,null,null,null,null,null,null,null,null
+59.9945216,29.7733776,store,Радуга,0,any,null,null,null,null,null,null,null,null,null,null
+59.9980277,29.7668216,shopping,Подворье,11,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9936365,29.7630425,work,МФЦ Кронштадтского района,12,any,1,09:00,21:00,1.0,null,null,null,null,null,null
+60.0015953,29.7684539,store,Напитки КРЕПОСТЬ мира,0,any,null,null,null,null,null,null,null,null,null,null
+60.0017123,29.7682833,shopping,Клуб КАЗЕМАТ,11,any,1,17:00,03:00,1.0,null,null,null,null,null,null
+60.0082154,29.7195564,store,null,0,any,null,null,null,null,null,null,null,null,null,null
+59.992229,29.7848985,shopping,null,13,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9921959,29.784869,shopping,null,16,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9930566,29.7891139,work,Поликлиника № 74,16,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9918302,29.7881973,work,Кронштадтский роддом,18,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9932872,29.7884366,shopping,Зоосервис,10,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9942299,29.7788896,shopping,Большая черепаха,14,any,1,11:00,23:00,1.0,null,null,null,null,null,null
+60.0014232,29.7687808,shopping,Старая крепость,17,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9962013,29.7632551,work,"Центр семейной медицины",12,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9906732,29.7897503,work,Отделение связи №197762,15,any,2,08:00,13:00,0.5,14:00,20:00,0.5,null,null,null
+60.0078946,29.7227782,store,null,0,any,null,null,null,null,null,null,null,null,null,null
+59.9887923,29.7973863,work,Городская больница Святого Праведного Иоанна Кронштадского,13,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+60.007994,29.7224136,store,null,0,any,null,null,null,null,null,null,null,null,null,null
+59.9980025,29.7675974,store,Социальная аптека №96,0,any,null,null,null,null,null,null,null,null,null,null
+59.9897293,29.7706443,shopping,Фарт,15,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+59.9953344,29.7645825,shopping,Мясной дворик,15,any,1,09:00,21:00,1.0,null,null,null,null,null,null
+59.9944733,29.7634412,shopping,Зоотовары,17,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9958628,29.7691135,school,Детский сад №6,446,any,null,null,null,null,null,null,null,null,null,null
+60.0074732,29.7411489,store,Магнит,0,any,null,null,null,null,null,null,null,null,null,null
+59.9971281,29.7576894,work,Медиум,13,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+60.0101461,29.731125,shopping,Акварель,17,any,3,07:00:00,15:00:00,0.4,15:00:00,23:00:00,0.4,23:00:00,07:00:00,0.2
+59.9900932,29.7729178,school,null,409,any,null,null,null,null,null,null,null,null,null,null
+59.9926256,29.7827987,store,Островок,0,any,null,null,null,null,null,null,null,null,null,null
+59.9926005,29.7829357,shopping,Островок,11,any,1,09:00,22:00,1.0,null,null,null,null,null,null
+59.998111,29.7032141,shopping,null,15,any,1,09:30:00,18:30:00,1,null,null,null,null,null,null
+60.011369,29.7298126,work,Пожарная часть № 46,17,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+60.0130499,29.6978523,work,null,16,any,3,07:00:00,15:00:00,0.4,15:00:00,23:00:00,0.4,23:00:00,07:00:00,0.2
+59.9902292,29.7746757,shopping,Солярий,12,any,1,09:00,22:00,1.0,null,null,null,null,null,null
+60.0074853,29.7315416,education,Профессиональное училище №48,485,any,null,null,null,null,null,null,null,null,null,null
+59.9927173,29.7888937,store,null,0,any,null,null,null,null,null,null,null,null,null,null
+59.9939024,29.7633742,work,Отделение связи №197760,14,any,1,08:00,20:00,1.0,null,null,null,null,null,null
+59.9981708,29.7630645,store,Продукты,0,any,null,null,null,null,null,null,null,null,null,null
+59.9962191,29.7569016,work,Детская поликлиника № 55,19,any,1,09:00:00,18:00:00,1,null,null,null,null,null,null
+59.9880489,29.78989

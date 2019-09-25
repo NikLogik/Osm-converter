@@ -36,7 +36,6 @@ public class FacilitiesOsmConverter {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 
 }

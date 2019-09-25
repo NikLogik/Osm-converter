@@ -1,0 +1,1473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE facilities SYSTEM "http://www.matsim.org/files/dtd/facilities_v1.dtd">
+
+<facilities>
+	<facility id="1454414602" x="29.7163303" y="60.0089487">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="915470327" x="29.7668611" y="59.9990972" desc="УПМ №2">
+		<activity type="work">
+			<capacity value="19"/>
+			<opentime day="wk" start_time="18:00" end_time="20:00"/>
+		</activity>
+	</facility>
+	<facility id="915470328" x="29.7640705" y="59.9947715" desc="Евразия">
+		<activity type="shopping">
+			<capacity value="14"/>
+			<opentime day="wk" start_time="11:00" end_time="22:00"/>
+		</activity>
+	</facility>
+	<facility id="6566250885" x="29.7882278" y="59.9902798" desc="Красное и Белое">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="915470365" x="29.7602548" y="59.9967666" desc="Минимаркет">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="2849470806" x="29.789684" y="59.9903755" desc="Овощи">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="1455186205" x="29.7688299" y="59.9983786" desc="Парус">
+		<activity type="shopping">
+			<capacity value="11"/>
+			<opentime day="wk" start_time="10:00" end_time="24:00"/>
+		</activity>
+	</facility>
+	<facility id="1455186209" x="29.768138" y="59.998488" desc="Гард">
+		<activity type="work">
+			<capacity value="19"/>
+			<opentime day="wk" start_time="11:00" end_time="22:00"/>
+		</activity>
+	</facility>
+	<facility id="915470208" x="29.767557" y="59.9990822" desc="Петровский">
+		<activity type="work">
+			<capacity value="19"/>
+			<opentime day="wk" start_time="09:00" end_time="21:00"/>
+		</activity>
+	</facility>
+	<facility id="915470201" x="29.7636484" y="59.9942578" desc="Каравай">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="6566250785" x="29.7873924" y="59.9909448" desc="Продукты">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="915470234" x="29.7645067" y="59.9952346" desc="Невис">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="915470246" x="29.7664389" y="60.0011352" desc="Продукты">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="1453015471" x="29.7223866" y="60.0102513" desc="Отделение связи №197761">
+		<activity type="work">
+			<capacity value="16"/>
+			<opentime day="wk" start_time="08:00" end_time="20:00"/>
+		</activity>
+	</facility>
+	<facility id="1453015458" x="29.7220251" y="60.0103068" desc="Сбербанк">
+		<activity type="work">
+			<capacity value="17"/>
+			<opentime day="wk" start_time="10:00" end_time="19:30"/>
+		</activity>
+	</facility>
+	<facility id="915470527" x="29.7637643" y="59.9981553">
+		<activity type="shopping">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1454414534" x="29.7178068" y="60.0094203" desc="Детский сад №18">
+		<activity type="school">
+			<capacity value="516"/>
+		</activity>
+	</facility>
+	<facility id="4406838891" x="29.763567" y="59.9941329" desc="Озерки">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="639616476" x="29.7227119" y="60.0089233" desc="Школа №418">
+		<activity type="school">
+			<capacity value="692"/>
+		</activity>
+	</facility>
+	<facility id="915470438" x="29.763829" y="59.9945173" desc="Норман">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="915470441" x="29.7643962" y="59.9951025" desc="Мясной дворик">
+		<activity type="shopping">
+			<capacity value="17"/>
+			<opentime day="wk" start_time="10:00" end_time="21:00"/>
+		</activity>
+	</facility>
+	<facility id="915470419" x="29.763189" y="59.9929521" desc="Пирожковая">
+		<activity type="shopping">
+			<capacity value="17"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="915470429" x="29.7627113" y="59.9938691" desc="Русь Дент">
+		<activity type="work">
+			<capacity value="13"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="915470490" x="29.7639683" y="59.9946408" desc="Сказка">
+		<activity type="shopping">
+			<capacity value="11"/>
+			<opentime day="wk" start_time="10:00" end_time="23:00"/>
+		</activity>
+	</facility>
+	<facility id="915470484" x="29.765246" y="60.000816" desc="Трактир">
+		<activity type="shopping">
+			<capacity value="16"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="6491102785" x="29.7707749" y="59.9898555" desc="Жемчужина">
+		<activity type="shopping">
+			<capacity value="12"/>
+			<opentime day="wk" start_time="10:00" end_time="19:00"/>
+		</activity>
+	</facility>
+	<facility id="892238996" x="29.7617688" y="59.9912816" desc="Администрация Кронштадтского района">
+		<activity type="work">
+			<capacity value="17"/>
+			<opentime day="wk" start_time="08:30" end_time="12:40"/>
+		</activity>
+	</facility>
+	<facility id="1450992929" x="29.7631985" y="59.9961523" desc="Банк СанктПетербург">
+		<activity type="work">
+			<capacity value="14"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1450992937" x="29.765234" y="59.9962072" desc="Сбербанк">
+		<activity type="work">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="09:30" end_time="20:30"/>
+		</activity>
+	</facility>
+	<facility id="1667824431" x="29.7766132" y="59.9966335" desc="Детская библиотека">
+		<activity type="work">
+			<capacity value="19"/>
+			<opentime day="wk" start_time="12:00" end_time="19:00"/>
+		</activity>
+	</facility>
+	<facility id="1450904439" x="29.7612118" y="59.9935736" desc="Кулинарная лавка">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4406946924" x="29.7663343" y="59.9976243" desc="Белорусские продукты">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="1450904440" x="29.7614126" y="59.9935417" desc="Продукты">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4348982970" x="29.7536874" y="59.9916957">
+		<activity type="shopping">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="915470159" x="29.7644216" y="59.9956817" desc="Каштан">
+		<activity type="shopping">
+			<capacity value="17"/>
+			<opentime day="wk" start_time="11:00" end_time="23:00"/>
+		</activity>
+	</facility>
+	<facility id="892238668" x="29.7679929" y="59.9985645" desc="Великолукский мясокомбинат">
+		<activity type="shopping">
+			<capacity value="11"/>
+			<opentime day="wk" start_time="09:00" end_time="21:00"/>
+		</activity>
+	</facility>
+	<facility id="893251456" x="29.7701571" y="59.9986203">
+		<activity type="shopping">
+			<capacity value="11"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="2047710924" x="29.7064289" y="59.99446" desc="Летнее кафе">
+		<activity type="shopping">
+			<capacity value="11"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="893251647" x="29.7701381" y="59.9978808" desc="Продукты">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="892238546" x="29.7691975" y="60.0000408" desc="Школа №422">
+		<activity type="school">
+			<capacity value="420"/>
+		</activity>
+	</facility>
+	<facility id="4346167396" x="29.7787451" y="59.9933987" desc="Норман">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4346167394" x="29.7775276" y="59.9941878" desc="Pizza Bonifacio">
+		<activity type="shopping">
+			<capacity value="18"/>
+			<opentime day="wk" start_time="12:00" end_time="24:00:00"/>
+			<opentime day="wk" start_time="00:00:00" end_time="01:00"/>
+		</activity>
+	</facility>
+	<facility id="4346167399" x="29.778616" y="59.9939566" desc="Музей тельняшки">
+		<activity type="shopping">
+			<capacity value="16"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="4346167397" x="29.7783472" y="59.9934925" desc="Где-то Лето">
+		<activity type="shopping">
+			<capacity value="13"/>
+			<opentime day="wk" start_time="10:00" end_time="22:00"/>
+		</activity>
+	</facility>
+	<facility id="4346167398" x="29.778402" y="59.9936901" desc="Бриош">
+		<activity type="shopping">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="08:00" end_time="22:00"/>
+		</activity>
+	</facility>
+	<facility id="4346167408" x="29.7681486" y="59.9965539" desc="Дикси">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4346167409" x="29.7688825" y="59.9974662" desc="Риф">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4346167400" x="29.7810122" y="59.9929748" desc="Разливное пиво">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4346167404" x="29.7681741" y="59.9955289">
+		<activity type="shopping">
+			<capacity value="17"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="4346167401" x="29.7815869" y="59.9928472">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4346167402" x="29.7729639" y="59.994591">
+		<activity type="shopping">
+			<capacity value="12"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="4346167418" x="29.7658273" y="59.9976629" desc="l`Americano">
+		<activity type="shopping">
+			<capacity value="17"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="4346167419" x="29.7582342" y="59.9941234">
+		<activity type="shopping">
+			<capacity value="10"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="4346167411" x="29.7693466" y="59.9977643" desc="Вкусняшка">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4346167412" x="29.7684099" y="59.9979985" desc="Стоматология">
+		<activity type="work">
+			<capacity value="19"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="4346167413" x="29.7658319" y="59.9980696" desc="Шаверма">
+		<activity type="shopping">
+			<capacity value="17"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="892238430" x="29.7681787" y="59.9987824" desc="Лакомка">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="2894390838" x="29.7670508" y="59.9972703" desc="Душевная компания">
+		<activity type="shopping">
+			<capacity value="19"/>
+			<opentime day="wk" start_time="10:00" end_time="20:00"/>
+		</activity>
+	</facility>
+	<facility id="1449689572" x="29.7479784" y="59.9959937">
+		<activity type="shopping">
+			<capacity value="13"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1139418913" x="29.763526" y="59.9932891" desc="Альфа-Банк">
+		<activity type="work">
+			<capacity value="17"/>
+			<opentime day="wk" start_time="10:00" end_time="19:00"/>
+		</activity>
+	</facility>
+	<facility id="911913426" x="29.7748489" y="59.9902347" desc="Народная 7Я семьЯ">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="911913428" x="29.7744815" y="59.98848">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="911913415" x="29.7700486" y="59.9880731" desc="Родина">
+		<activity type="shopping">
+			<capacity value="14"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="911913416" x="29.7717061" y="59.9885581" desc="Садко">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="911913405" x="29.7707054" y="59.9887662" desc="Старый маяк">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="911913403" x="29.7743066" y="59.98968" desc="Сервис">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="911913401" x="29.7719984" y="59.9884991" desc="Петровский">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="911913407" x="29.7738029" y="59.9901613" desc="Мимино">
+		<activity type="shopping">
+			<capacity value="18"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="4348994350" x="29.760468" y="59.9924176">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="892238153" x="29.763877" y="59.9937506">
+		<activity type="shopping">
+			<capacity value="12"/>
+			<opentime day="wk" start_time="10:00" end_time="20:00"/>
+		</activity>
+	</facility>
+	<facility id="4947239722" x="29.7739792" y="59.9883691" desc="Сувениры Подарки на Красной">
+		<activity type="shopping">
+			<capacity value="12"/>
+			<opentime day="wk" start_time="10:00" end_time="21:00"/>
+		</activity>
+	</facility>
+	<facility id="4947239721" x="29.7713127" y="59.9858048" desc="Шаверма">
+		<activity type="shopping">
+			<capacity value="13"/>
+			<opentime day="wk" start_time="10:00" end_time="22:00"/>
+		</activity>
+	</facility>
+	<facility id="4947239723" x="29.7740771" y="59.9884575" desc="Почтовое отделение №197763">
+		<activity type="work">
+			<capacity value="18"/>
+			<opentime day="wk" start_time="09:00" end_time="14:00"/>
+		</activity>
+	</facility>
+	<facility id="1471209527" x="29.7621882" y="59.9994915" desc="Туберкулезный диспансер больница № 36">
+		<activity type="work">
+			<capacity value="12"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="1455225889" x="29.7730453" y="59.9973341">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="1455225890" x="29.7685641" y="59.9982033" desc="Пьятница">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="1848135349" x="29.7575495" y="59.9927902" desc="Детский сад №1">
+		<activity type="school">
+			<capacity value="673"/>
+		</activity>
+	</facility>
+	<facility id="4947239821" x="29.7713673" y="59.9858929">
+		<activity type="shopping">
+			<capacity value="17"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="388916742" x="29.777902" y="59.9946243" desc="КРК Бастион">
+		<activity type="work">
+			<capacity value="10"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="1454938811" x="29.7727091" y="60.0001761" desc="КроштадтАвто.РФ">
+		<activity type="shopping">
+			<capacity value="13"/>
+			<opentime day="wk" start_time="09:00" end_time="21:00"/>
+		</activity>
+	</facility>
+	<facility id="5077421823" x="29.7696907" y="59.9987218" desc="Шиколад">
+		<activity type="shopping">
+			<capacity value="17"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="370478030" x="29.7719971" y="59.9905888" desc="Начальная школа - детский сад  № 662">
+		<activity type="school">
+			<capacity value="677"/>
+		</activity>
+	</facility>
+	<facility id="893251292" x="29.7697441" y="59.9979397" desc="Невис">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="911913399" x="29.7749829" y="59.9869207" desc="Наутилус">
+		<activity type="shopping">
+			<capacity value="12"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="911913396" x="29.7699689" y="59.9879407" desc="Форт">
+		<activity type="shopping">
+			<capacity value="12"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="906459772" x="29.7688773" y="60.0015547" desc="Ветеринарная станция Кронштадтского района">
+		<activity type="work">
+			<capacity value="13"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="906459720" x="29.7771282" y="59.9980633">
+		<activity type="shopping">
+			<capacity value="14"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1452637015" x="29.7255619" y="60.0096393" desc="Детский сад №18">
+		<activity type="school">
+			<capacity value="654"/>
+		</activity>
+	</facility>
+	<facility id="899271729" x="29.7866895" y="59.9871429">
+		<activity type="school">
+			<capacity value="611"/>
+		</activity>
+	</facility>
+	<facility id="899271726" x="29.7893165" y="59.9873761" desc="Продукты">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="1788563234" x="29.787441" y="59.9911288" desc="Городская больница №6">
+		<activity type="work">
+			<capacity value="17"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1474121590" x="29.7868687" y="59.9919899" desc="Детский сад № 2">
+		<activity type="school">
+			<capacity value="492"/>
+		</activity>
+	</facility>
+	<facility id="4343680238" x="29.7801686" y="59.9962603">
+		<activity type="shopping">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="892239073" x="29.7674446" y="59.9978176" desc="Дагвино">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="918535025" x="29.761518" y="60.0017382" desc="Отдел вневедомственной охраны УВД">
+		<activity type="work">
+			<capacity value="14"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="914764769" x="29.7637069" y="59.9891856" desc="Драматический театр Балтийского флота">
+		<activity type="shopping">
+			<capacity value="16"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="4346247185" x="29.7627243" y="59.9931558" desc="Стиль">
+		<activity type="shopping">
+			<capacity value="11"/>
+			<opentime day="wk" start_time="10:00" end_time="21:00"/>
+		</activity>
+	</facility>
+	<facility id="885066114" x="29.7671974" y="59.9962462" desc="У Палыча">
+		<activity type="shopping">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="914764730" x="29.7632608" y="59.9892743" desc="Золотой Якорь">
+		<activity type="shopping">
+			<capacity value="14"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="6566243785" x="29.7682719" y="59.9989012" desc="ЛекОблФарм">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="483741545" x="29.7682549" y="59.9988716" desc="Пятёрочка">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="1453933079" x="29.766301" y="60.001284">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="2976140966" x="29.7869383" y="59.9886078" desc="Дикси">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4348997443" x="29.7591242" y="59.9934813" desc="Магнит">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="2976140922" x="29.7884887" y="59.9905987" desc="Магнит">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="2976139659" x="29.788248" y="59.9902769" desc="Motor">
+		<activity type="shopping">
+			<capacity value="13"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="2146341253" x="29.7681649" y="59.9986227" desc="Пышки">
+		<activity type="shopping">
+			<capacity value="11"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="697338873" x="29.7692344" y="59.9880597" desc="Таверна">
+		<activity type="shopping">
+			<capacity value="19"/>
+			<opentime day="wk" start_time="09:00" end_time="24:00:00"/>
+			<opentime day="wk" start_time="00:00:00" end_time="04:00"/>
+		</activity>
+	</facility>
+	<facility id="4433719589" x="29.7254376" y="60.0088888">
+		<activity type="shopping">
+			<capacity value="19"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="5077459722" x="29.7632355" y="59.9985864" desc="Магазин антикварианта">
+		<activity type="shopping">
+			<capacity value="17"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="4170316440" x="29.7875627" y="59.9913165">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4170316439" x="29.7884766" y="59.9905699" desc="Алоэ">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4433860493" x="29.719185" y="60.0102007" desc="Кулинарная Лавка">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="2145246123" x="29.7375177" y="60.008719">
+		<activity type="shopping">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="2145246145" x="29.7371999" y="60.0085202" desc="Газпромнефть">
+		<activity type="work">
+			<capacity value="11"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1476450520" x="29.7293894" y="60.0040179" desc="Детский санаторий &quot;Аврора&quot;">
+		<activity type="work">
+			<capacity value="19"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="4433931389" x="29.7674464" y="59.9989585" desc="Норман">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="1588507416" x="29.7645005" y="59.994304" desc="Кронштадтское РУВД">
+		<activity type="work">
+			<capacity value="13"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1588507423" x="29.7677346" y="59.9970299" desc="Гостиный Двор">
+		<activity type="shopping">
+			<capacity value="16"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="3885415557" x="29.7662789" y="59.9965199" desc="Subway">
+		<activity type="shopping">
+			<capacity value="14"/>
+			<opentime day="wk" start_time="07:00:00" end_time="15:00:00"/>
+			<opentime day="wk" start_time="15:00:00" end_time="23:00:00"/>
+			<opentime day="wk" start_time="23:00:00" end_time="24:00:00"/>
+			<opentime day="wk" start_time="00:00:00" end_time="07:00:00"/>
+		</activity>
+	</facility>
+	<facility id="3885415558" x="29.7664363" y="59.9979293" desc="Суши Wok">
+		<activity type="shopping">
+			<capacity value="16"/>
+			<opentime day="wk" start_time="10:00" end_time="23:00"/>
+		</activity>
+	</facility>
+	<facility id="3885415564" x="29.7670304" y="59.9973795" desc="33 пингвина">
+		<activity type="shopping">
+			<capacity value="16"/>
+			<opentime day="wk" start_time="10:00" end_time="20:00"/>
+		</activity>
+	</facility>
+	<facility id="895348369" x="29.7812109" y="59.9933909" desc="Купина">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4343669400" x="29.7801361" y="59.9958842">
+		<activity type="school">
+			<capacity value="622"/>
+		</activity>
+	</facility>
+	<facility id="895348294" x="29.778574" y="59.9934289" desc="Кафе-магазин Каравай.">
+		<activity type="shopping">
+			<capacity value="10"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="895348283" x="29.7811545" y="59.9933157" desc="Участковый пункт полиции № 3">
+		<activity type="work">
+			<capacity value="18"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="1449768949" x="29.7324564" y="60.0096559">
+		<activity type="shopping">
+			<capacity value="11"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="728176727" x="29.7515116" y="59.9931856" desc="Школа-интернат № 424">
+		<activity type="school">
+			<capacity value="642"/>
+		</activity>
+	</facility>
+	<facility id="1457169956" x="29.7697967" y="59.9986094" desc="Для самых важных людей">
+		<activity type="shopping">
+			<capacity value="19"/>
+			<opentime day="wk" start_time="10:00" end_time="20:00"/>
+		</activity>
+	</facility>
+	<facility id="1457169952" x="29.7696512" y="59.9985895" desc="Алмаз">
+		<activity type="shopping">
+			<capacity value="18"/>
+			<opentime day="wk" start_time="10:00" end_time="19:00"/>
+		</activity>
+	</facility>
+	<facility id="1458502110" x="29.7645169" y="59.9945124" desc="Пельменная">
+		<activity type="shopping">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="08:00" end_time="21:00"/>
+		</activity>
+	</facility>
+	<facility id="1458502109" x="29.7644731" y="59.9944496" desc="Отделение внутренних дел">
+		<activity type="work">
+			<capacity value="19"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1458502108" x="29.7633116" y="59.9930425" desc="Минимаркет">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="1453595127" x="29.7689602" y="59.9896567">
+		<activity type="shopping">
+			<capacity value="18"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1453595128" x="29.7691896" y="59.989638">
+		<activity type="shopping">
+			<capacity value="13"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="1457169930" x="29.7697588" y="59.9985596" desc="1001 сумка">
+		<activity type="shopping">
+			<capacity value="13"/>
+			<opentime day="wk" start_time="10:00" end_time="20:00"/>
+		</activity>
+	</facility>
+	<facility id="4170316112" x="29.7880917" y="59.9879612" desc="Детская музыкальная школа имени Г.П. Вишневской">
+		<activity type="school">
+			<capacity value="698"/>
+		</activity>
+	</facility>
+	<facility id="895536252" x="29.7873998" y="59.9919701" desc="На троих">
+		<activity type="shopping">
+			<capacity value="12"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="895536349" x="29.7869534" y="59.9917637" desc="Аптека">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="639617973" x="29.7222077" y="60.0094616" desc="Норман">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="639617951" x="29.7177331" y="60.0100817" desc="Сгомонь">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="639617953" x="29.7180278" y="60.0099931" desc="Мясной дворик">
+		<activity type="shopping">
+			<capacity value="10"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="639617956" x="29.7190721" y="60.0101568" desc="КоSмос">
+		<activity type="shopping">
+			<capacity value="19"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="4343687793" x="29.7826528" y="59.9950579">
+		<activity type="school">
+			<capacity value="695"/>
+		</activity>
+	</facility>
+	<facility id="895536363" x="29.7882109" y="59.9930042" desc="Мини-Март">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="888388234" x="29.7633052" y="59.9965962" desc="Школа №425 им. акад. П.Л. Капицы">
+		<activity type="school">
+			<capacity value="587"/>
+		</activity>
+	</facility>
+	<facility id="888109120" x="29.7650756" y="59.9974466" desc="Кондитерская">
+		<activity type="shopping">
+			<capacity value="14"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="888388258" x="29.7636836" y="59.9965523" desc="Школа №676 коррекционная">
+		<activity type="school">
+			<capacity value="613"/>
+		</activity>
+	</facility>
+	<facility id="1477896014" x="29.7585399" y="59.9962677" desc="Кедр">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4343663708" x="29.7737133" y="59.9972024">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="1449169400" x="29.7595264" y="60.0035418" desc="Евромаркет">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4922255321" x="29.764309" y="59.9956943" desc="Булочная • Пекарня">
+		<activity type="shopping">
+			<capacity value="18"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="888109292" x="29.7667545" y="59.997951" desc="Продукты">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="1455307701" x="29.7701124" y="59.9976444" desc="Zarina">
+		<activity type="shopping">
+			<capacity value="12"/>
+			<opentime day="wk" start_time="11:00" end_time="19:00"/>
+		</activity>
+	</facility>
+	<facility id="367670239" x="29.7723765" y="59.9903312" desc="Начальная школа - детский сад  № 662">
+		<activity type="school">
+			<capacity value="570"/>
+		</activity>
+	</facility>
+	<facility id="898898094" x="29.7896309" y="59.989135" desc="детский сад">
+		<activity type="school">
+			<capacity value="420"/>
+		</activity>
+	</facility>
+	<facility id="4343697496" x="29.7837836" y="59.9939965">
+		<activity type="shopping">
+			<capacity value="19"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="4343697497" x="29.783311" y="59.9942153" desc="Магнит">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4346181056" x="29.7623185" y="60.0013971" desc="Нар-Шараб">
+		<activity type="shopping">
+			<capacity value="18"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="4346181057" x="29.7625223" y="60.0016036">
+		<activity type="shopping">
+			<capacity value="16"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1455244208" x="29.7728094" y="59.9978035" desc="Продукты">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="5001489022" x="29.7686581" y="60.0015049" desc="Старая Крепость">
+		<activity type="shopping">
+			<capacity value="10"/>
+			<opentime day="wk" start_time="12:00" end_time="24:00"/>
+		</activity>
+	</facility>
+	<facility id="2146322009" x="29.7695219" y="59.9979799" desc="Блины и пирожки">
+		<activity type="shopping">
+			<capacity value="13"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1452763667" x="29.7246768" y="60.011506">
+		<activity type="shopping">
+			<capacity value="14"/>
+			<opentime day="wk" start_time="07:00:00" end_time="15:00:00"/>
+			<opentime day="wk" start_time="15:00:00" end_time="23:00:00"/>
+			<opentime day="wk" start_time="23:00:00" end_time="24:00:00"/>
+			<opentime day="wk" start_time="00:00:00" end_time="07:00:00"/>
+		</activity>
+	</facility>
+	<facility id="4406921612" x="29.7639635" y="59.9938887" desc="Четыре сезона">
+		<activity type="shopping">
+			<capacity value="19"/>
+			<opentime day="wk" start_time="10:00" end_time="20:00"/>
+		</activity>
+	</facility>
+	<facility id="898898462" x="29.7887646" y="59.9900944" desc="Управление Пенсионного фонда">
+		<activity type="work">
+			<capacity value="10"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="898898436" x="29.7890661" y="59.9904772" desc="Продукты">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="918534900" x="29.7529735" y="59.9952003" desc="Морской кадетский корпус">
+		<activity type="school">
+			<capacity value="599"/>
+		</activity>
+	</facility>
+	<facility id="888388086" x="29.7656713" y="59.9966635" desc="Продукты">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4073697993" x="29.7620736" y="59.9925315" desc="Золотой лев">
+		<activity type="shopping">
+			<capacity value="18"/>
+			<opentime day="wk" start_time="12:00" end_time="24:00"/>
+		</activity>
+	</facility>
+	<facility id="894120865" x="29.7679284" y="59.9960215" desc="Центральная библиотека">
+		<activity type="work">
+			<capacity value="14"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1454346895" x="29.718188" y="60.0100126" desc="Японский городовой">
+		<activity type="shopping">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="910865112" x="29.7868184" y="59.9907743" desc="Продукты">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="897536827" x="29.7892827" y="59.9908535" desc="Участковый пункт полиции">
+		<activity type="work">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="4346193670" x="29.7728094" y="60.0000724">
+		<activity type="shopping">
+			<capacity value="14"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="4346193666" x="29.7727969" y="60.0002946">
+		<activity type="shopping">
+			<capacity value="18"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="4346193685" x="29.7761059" y="59.9979116">
+		<activity type="shopping">
+			<capacity value="11"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="1453553198" x="29.7701127" y="59.9878871" desc="Сувенир Кронштадта">
+		<activity type="shopping">
+			<capacity value="16"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="897536884" x="29.7899456" y="59.9908584" desc="На горе">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="1920144851" x="29.7124333" y="60.0069251" desc="Роснефть">
+		<activity type="work">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="07:00:00" end_time="15:00:00"/>
+			<opentime day="wk" start_time="15:00:00" end_time="23:00:00"/>
+			<opentime day="wk" start_time="23:00:00" end_time="24:00:00"/>
+			<opentime day="wk" start_time="00:00:00" end_time="07:00:00"/>
+		</activity>
+	</facility>
+	<facility id="898739501" x="29.7855563" y="59.9875792" desc="Библиотека-филиал №1 ЦБС">
+		<activity type="work">
+			<capacity value="19"/>
+			<opentime day="wk" start_time="12:00" end_time="15:00"/>
+			<opentime day="wk" start_time="15:30" end_time="19:00"/>
+		</activity>
+	</facility>
+	<facility id="897536510" x="29.7930423" y="59.9920526" desc="Военно-морской госпиталь имени Н. А. Семашко">
+		<activity type="work">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="4348897668" x="29.7897488" y="59.9892831" desc="Детский сад №8">
+		<activity type="school">
+			<capacity value="551"/>
+		</activity>
+	</facility>
+	<facility id="4346193803" x="29.7770914" y="59.99776">
+		<activity type="shopping">
+			<capacity value="16"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="4348956322" x="29.7713384" y="59.9855486" desc="Кафе">
+		<activity type="shopping">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="6744608485" x="29.773429" y="59.9922971">
+		<activity type="shopping">
+			<capacity value="19"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1454346741" x="29.7194193" y="60.0104007" desc="Продукты">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="894120909" x="29.7733776" y="59.9945216" desc="Радуга">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="888109464" x="29.7668216" y="59.9980277" desc="Подворье">
+		<activity type="shopping">
+			<capacity value="11"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="5894601930" x="29.7630425" y="59.9936365" desc="МФЦ Кронштадтского района">
+		<activity type="work">
+			<capacity value="12"/>
+			<opentime day="wk" start_time="09:00" end_time="21:00"/>
+		</activity>
+	</facility>
+	<facility id="5674800923" x="29.7684539" y="60.0015953" desc="Напитки КРЕПОСТЬ мира">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="5674800924" x="29.7682833" y="60.0017123" desc="Клуб КАЗЕМАТ">
+		<activity type="shopping">
+			<capacity value="11"/>
+			<opentime day="wk" start_time="17:00" end_time="24:00:00"/>
+			<opentime day="wk" start_time="00:00:00" end_time="03:00"/>
+		</activity>
+	</facility>
+	<facility id="1455309936" x="29.7195564" y="60.0082154">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4348885347" x="29.7848985" y="59.992229">
+		<activity type="shopping">
+			<capacity value="13"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="4348885348" x="29.784869" y="59.9921959">
+		<activity type="shopping">
+			<capacity value="16"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="483767645" x="29.7891139" y="59.9930566" desc="Поликлиника № 74">
+		<activity type="work">
+			<capacity value="16"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="483767612" x="29.7881973" y="59.9918302" desc="Кронштадтский роддом">
+		<activity type="work">
+			<capacity value="18"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="895536108" x="29.7884366" y="59.9932872" desc="Зоосервис">
+		<activity type="shopping">
+			<capacity value="10"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="2604647274" x="29.7788896" y="59.9942299" desc="Большая черепаха">
+		<activity type="shopping">
+			<capacity value="14"/>
+			<opentime day="wk" start_time="11:00" end_time="23:00"/>
+		</activity>
+	</facility>
+	<facility id="5077420533" x="29.7687808" y="60.0014232" desc="Старая крепость">
+		<activity type="shopping">
+			<capacity value="17"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="5077420531" x="29.7632551" y="59.9962013" desc="&quot;Центр семейной медицины&quot;">
+		<activity type="work">
+			<capacity value="12"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="897536993" x="29.7897503" y="59.9906732" desc="Отделение связи №197762">
+		<activity type="work">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="08:00" end_time="13:00"/>
+			<opentime day="wk" start_time="14:00" end_time="20:00"/>
+		</activity>
+	</facility>
+	<facility id="1455309829" x="29.7227782" y="60.0078946">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="901321568" x="29.7973863" y="59.9887923" desc="Городская больница Святого Праведного Иоанна Кронштадского">
+		<activity type="work">
+			<capacity value="13"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="1455309860" x="29.7224136" y="60.007994">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="892239237" x="29.7675974" y="59.9980025" desc="Социальная аптека №96">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4348946548" x="29.7706443" y="59.9897293" desc="Фарт">
+		<activity type="shopping">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1450960713" x="29.7645825" y="59.9953344" desc="Мясной дворик">
+		<activity type="shopping">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="09:00" end_time="21:00"/>
+		</activity>
+	</facility>
+	<facility id="1450960714" x="29.7634412" y="59.9944733" desc="Зоотовары">
+		<activity type="shopping">
+			<capacity value="17"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="4349033107" x="29.7691135" y="59.9958628" desc="Детский сад №6">
+		<activity type="school">
+			<capacity value="446"/>
+		</activity>
+	</facility>
+	<facility id="6566217285" x="29.7411489" y="60.0074732" desc="Магнит">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4783824521" x="29.7576894" y="59.9971281" desc="Медиум">
+		<activity type="work">
+			<capacity value="13"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="3563879814" x="29.731125" y="60.0101461" desc="Акварель">
+		<activity type="shopping">
+			<capacity value="17"/>
+			<opentime day="wk" start_time="07:00:00" end_time="15:00:00"/>
+			<opentime day="wk" start_time="15:00:00" end_time="23:00:00"/>
+			<opentime day="wk" start_time="23:00:00" end_time="24:00:00"/>
+			<opentime day="wk" start_time="00:00:00" end_time="07:00:00"/>
+		</activity>
+	</facility>
+	<facility id="1588452467" x="29.7729178" y="59.9900932">
+		<activity type="school">
+			<capacity value="409"/>
+		</activity>
+	</facility>
+	<facility id="1453958308" x="29.7827987" y="59.9926256" desc="Островок">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="1453958301" x="29.7829357" y="59.9926005" desc="Островок">
+		<activity type="shopping">
+			<capacity value="11"/>
+			<opentime day="wk" start_time="09:00" end_time="22:00"/>
+		</activity>
+	</facility>
+	<facility id="4210986615" x="29.7032141" y="59.998111">
+		<activity type="shopping">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="3338812871" x="29.7298126" y="60.011369" desc="Пожарная часть № 46">
+		<activity type="work">
+			<capacity value="17"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="1763823055" x="29.6978523" y="60.0130499">
+		<activity type="work">
+			<capacity value="16"/>
+			<opentime day="wk" start_time="07:00:00" end_time="15:00:00"/>
+			<opentime day="wk" start_time="15:00:00" end_time="23:00:00"/>
+			<opentime day="wk" start_time="23:00:00" end_time="24:00:00"/>
+			<opentime day="wk" start_time="00:00:00" end_time="07:00:00"/>
+		</activity>
+	</facility>
+	<facility id="1453684518" x="29.7746757" y="59.9902292" desc="Солярий">
+		<activity type="shopping">
+			<capacity value="12"/>
+			<opentime day="wk" start_time="09:00" end_time="22:00"/>
+		</activity>
+	</facility>
+	<facility id="1449189346" x="29.7315416" y="60.0074853" desc="Профессиональное училище №48">
+		<activity type="education">
+			<capacity value="485"/>
+		</activity>
+	</facility>
+	<facility id="1461242595" x="29.7888937" y="59.9927173">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4407234266" x="29.7633742" y="59.9939024" desc="Отделение связи №197760">
+		<activity type="work">
+			<capacity value="14"/>
+			<opentime day="wk" start_time="08:00" end_time="20:00"/>
+		</activity>
+	</facility>
+	<facility id="1460407429" x="29.7630645" y="59.9981708" desc="Продукты">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="484266560" x="29.7569016" y="59.9962191" desc="Детская поликлиника № 55">
+		<activity type="work">
+			<capacity value="19"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="4348901111" x="29.7898975" y="59.9880489" desc="Продукты">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="1451045796" x="29.7613623" y="59.9948966" desc="Сказочный остров">
+		<activity type="shopping">
+			<capacity value="10"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1451045795" x="29.7612062" y="59.9949357" desc="Симпатия">
+		<activity type="shopping">
+			<capacity value="16"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="1451045799" x="29.7654511" y="59.996587" desc="Фиалка">
+		<activity type="shopping">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="10:00" end_time="20:00"/>
+		</activity>
+	</facility>
+	<facility id="4947162628" x="29.7783505" y="59.9936195">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="1452960878" x="29.7232677" y="60.0112904">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="1452960893" x="29.7208001" y="60.0114895" desc="Участковый пункт полиции">
+		<activity type="work">
+			<capacity value="17"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1452960856" x="29.7196451" y="60.0106153" desc="Sun Beauty">
+		<activity type="shopping">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="1452960850" x="29.7206878" y="60.0105585" desc="Каприз">
+		<activity type="shopping">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1452960864" x="29.7193546" y="60.0114717" desc="Детская музыкальная школа №8">
+		<activity type="school">
+			<capacity value="549"/>
+		</activity>
+	</facility>
+	<facility id="1452960847" x="29.7197032" y="60.0105976" desc="Алоэ">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4433909989" x="29.7637677" y="59.997968">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="886193911" x="29.7579314" y="59.9926766" desc="Детский сад №1">
+		<activity type="school">
+			<capacity value="634"/>
+		</activity>
+	</facility>
+	<facility id="1451899065" x="29.762601" y="60.0033561">
+		<activity type="shopping">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1451899063" x="29.7608316" y="60.0033294">
+		<activity type="shopping">
+			<capacity value="19"/>
+			<opentime day="wk" start_time="07:00:00" end_time="15:00:00"/>
+			<opentime day="wk" start_time="15:00:00" end_time="23:00:00"/>
+			<opentime day="wk" start_time="23:00:00" end_time="24:00:00"/>
+			<opentime day="wk" start_time="00:00:00" end_time="07:00:00"/>
+		</activity>
+	</facility>
+	<facility id="1451045793" x="29.7629694" y="59.9934502" desc="Кронштадтский дворец культуры">
+		<activity type="shopping">
+			<capacity value="16"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="1451045791" x="29.7633916" y="59.9942802" desc="Диана">
+		<activity type="shopping">
+			<capacity value="14"/>
+			<opentime day="wk" start_time="10:00" end_time="21:00"/>
+		</activity>
+	</facility>
+	<facility id="1452960919" x="29.7203684" y="60.0103944" desc="Великолукские колбасы">
+		<activity type="shopping">
+			<capacity value="14"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="1452960912" x="29.7206308" y="60.0115413" desc="Библиотека семейного чтения">
+		<activity type="work">
+			<capacity value="14"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1452960901" x="29.7193506" y="60.0107061" desc="СПб ГУЗ Поликлиника №74">
+		<activity type="work">
+			<capacity value="12"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="1294817578" x="29.7205279" y="60.0105231" desc="Парное мясо">
+		<activity type="shopping">
+			<capacity value="13"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1294817603" x="29.7207513" y="60.0103444" desc="Маленькая Соня">
+		<activity type="shopping">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1451199163" x="29.7800704" y="59.9917366" desc="Полевое учреждение ЦБ РФ &quot;Кронштадтское&quot;">
+		<activity type="work">
+			<capacity value="19"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="4406960210" x="29.7621894" y="59.9927509" desc="Продукты">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="4406960211" x="29.766291" y="59.997448">
+		<activity type="shopping">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="07:00:00" end_time="15:00:00"/>
+			<opentime day="wk" start_time="15:00:00" end_time="23:00:00"/>
+			<opentime day="wk" start_time="23:00:00" end_time="24:00:00"/>
+			<opentime day="wk" start_time="00:00:00" end_time="07:00:00"/>
+		</activity>
+	</facility>
+	<facility id="1451899235" x="29.7602759" y="60.0031981" desc="Авторемонт">
+		<activity type="shopping">
+			<capacity value="11"/>
+			<opentime day="wk" start_time="09:00" end_time="19:00"/>
+		</activity>
+	</facility>
+	<facility id="1451899246" x="29.7597002" y="60.0034251" desc="Петербургская топливная компания">
+		<activity type="work">
+			<capacity value="17"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1451899243" x="29.7640069" y="60.0025624" desc="Опорная площадка «контакт»">
+		<activity type="shopping">
+			<capacity value="15"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="4433909789" x="29.7636301" y="59.9979328" desc="Люнер">
+		<activity type="shopping">
+			<capacity value="19"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+	<facility id="1450093106" x="29.7615764" y="59.9998433">
+		<activity type="work">
+			<capacity value="18"/>
+			<opentime day="wk" start_time="09:30:00" end_time="18:30:00"/>
+		</activity>
+	</facility>
+	<facility id="1451045803" x="29.7647951" y="59.9955666" desc="Универсам">
+		<activity type="store">
+			<capacity value="0"/>
+		</activity>
+	</facility>
+	<facility id="5077497126" x="29.7688828" y="59.998258" desc="В дрова">
+		<activity type="shopping">
+			<capacity value="13"/>
+			<opentime day="wk" start_time="09:00:00" end_time="18:00:00"/>
+		</activity>
+	</facility>
+</facilities>
