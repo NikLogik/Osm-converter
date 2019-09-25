@@ -2,55 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b719f43e-fd6f-4028-8a2e-b9f2a466dbd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Facility-converter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/facilities-osm-converter.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/attraction_Objects_20092019.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/map.osm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/FacilitiesOsmConverter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/csv/CSVDataImpl$AttractionType$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/csv/CSVDataImpl$AttractionType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/csv/CSVDataImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/csv/FacilitiesCSVConstants.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/facility/AttractionObjectContainer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/facility/AttractionObjectContainerImpl$AttractionType$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/facility/AttractionObjectContainerImpl$AttractionType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/facility/AttractionObjectContainerImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/facility/CSVTagsValidator$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/facility/CSVTagsValidator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/facility/FacilityTableTypes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/gui/FacilityConverter$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/gui/FacilityConverter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/io/AttractionObjectWriter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/io/FacilitiesCSVWriter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/io/FacilitiesXmlWriter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/io/OsmFileReader$ParsedNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/io/OsmFileReader$ParsedRelation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/io/OsmFileReader$ParsedRelationMember.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/io/OsmFileReader$ParsedWay.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/io/OsmFileReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/io/StringCache.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/osm/AllowedTagsFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/osm/Osm$Element.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/osm/Osm$ElementType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/osm/Osm$Key.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/osm/Osm$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/osm/Osm$Relation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/osm/Osm$Way.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/osm/Osm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/osm/OsmData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/osm/OsmDataImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/osm/OsmElement$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/osm/OsmElement$Relation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/osm/OsmElement$Way.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/osm/OsmElement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/niklogik/xml/FacilitiesXMLConstants.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/text.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/text.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/niklogik/FacilitiesOsmConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/niklogik/FacilitiesOsmConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,6 +118,35 @@
       <option name="presentableId" value="Default" />
       <updated>1568730703483</updated>
     </task>
+    <task id="LOCAL-00001" summary="version 1.0&#10;1. Доработать генерацию графика работы объектов притяжения">
+      <created>1569398279588</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569398279588</updated>
+    </task>
+    <task id="LOCAL-00002" summary="version 1.0&#10;1. Доработать генерацию графика работы объектов притяжения">
+      <created>1569398371909</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569398371909</updated>
+    </task>
+    <task id="LOCAL-00003" summary="version 1.0&#10;1. Доработать генерацию графика работы объектов притяжения">
+      <created>1569398436510</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569398436510</updated>
+    </task>
+    <task id="LOCAL-00004" summary="version 1.0.2&#10;1. Доработать генерацию графика работы объектов притяжения">
+      <created>1569398681502</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569398681502</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,7 +164,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="version 1.0&#10;1. Доработать генерацию графика работы объектов притяжения" />
-    <option name="LAST_COMMIT_MESSAGE" value="version 1.0&#10;1. Доработать генерацию графика работы объектов притяжения" />
+    <MESSAGE value="version 1.0.2&#10;1. Доработать генерацию графика работы объектов притяжения" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 1.0.2&#10;1. Доработать генерацию графика работы объектов притяжения" />
   </component>
   <component name="WindowStateProjectService">
     <state x="773" y="296" width="424" height="513" key="FileChooserDialogImpl" timestamp="1569398207528">
@@ -201,10 +184,22 @@
       <screen x="61" y="27" width="1859" height="1053" />
     </state>
     <state x="473" y="130" width="1024" height="845" key="SettingsEditor/61.27.1859.1053@61.27.1859.1053" timestamp="1569398158773" />
-    <state x="585" y="289" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1569398380629">
+    <state x="585" y="289" width="1134" height="657" key="Vcs.Push.Dialog.v2" timestamp="1569398782648">
       <screen x="61" y="27" width="1859" height="1053" />
     </state>
-    <state x="585" y="289" width="800" height="526" key="Vcs.Push.Dialog.v2/61.27.1859.1053@61.27.1859.1053" timestamp="1569398380629" />
+    <state x="585" y="289" width="1134" height="657" key="Vcs.Push.Dialog.v2/61.27.1859.1053@61.27.1859.1053" timestamp="1569398782648" />
+    <state x="731" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate" timestamp="1569398788794">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="731" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate/61.27.1859.1053@61.27.1859.1053" timestamp="1569398788794" />
+    <state x="612" y="346" width="746" height="413" key="git4idea.merge.GitMergeDialog" timestamp="1569398931217">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="612" y="346" width="746" height="413" key="git4idea.merge.GitMergeDialog/61.27.1859.1053@61.27.1859.1053" timestamp="1569398931217" />
+    <state x="612" y="346" width="746" height="413" key="git4idea.merge.GitPullDialog" timestamp="1569398570969">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="612" y="346" width="746" height="413" key="git4idea.merge.GitPullDialog/61.27.1859.1053@61.27.1859.1053" timestamp="1569398570969" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
